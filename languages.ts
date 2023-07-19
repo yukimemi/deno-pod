@@ -1,1 +1,1 @@
-export const languages = ["typescript", "vim", "lua"];
+export const languages = ["typescript", "vim", "lua", "xml"];
